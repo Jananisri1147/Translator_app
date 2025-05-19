@@ -1,4 +1,4 @@
-kiGoogle Translate Desktop App
+Google Translate Desktop App
 
 A lightweight and user-friendly desktop application that brings the power of Google Translate to your desktop using Python and Tkinter. This app allows you to quickly translate text between multiple languages without needing to open a browser.
 
@@ -25,7 +25,7 @@ Deep Translator library for accessing Google Translate API
 
 here's a video reference to it
 
-https://drive.google.com/file/d/1ErQ9qSVeLGNeIpZEDPRRVcmnMngULJgC/view?usp=drivesdk
+https://drive.google.com/file/d/1FE5sdTRywmGNkaWQ4D3P1VXEpq7QtW6E/view?usp=drivesdk
 
 This project was developed during my time at @Pinnacle Labs, focusing on API integration and desktop application development.
 
